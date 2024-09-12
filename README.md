@@ -29,7 +29,7 @@ trendai/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/trendai.git
+   git clone https://github.com/ananyagoyal1/trendai.git
    ```
 2. Navigate to the project directory:
    ```
